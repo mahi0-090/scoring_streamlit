@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+shap
+plotly
+sklearn
+urllib
+json
