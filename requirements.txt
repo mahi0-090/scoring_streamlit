@@ -6,4 +6,3 @@ scikit_learn==1.0.2
 seaborn==0.11.2
 shap==0.40.0
 streamlit==1.7.0
-~atplotlib==3.3.4
