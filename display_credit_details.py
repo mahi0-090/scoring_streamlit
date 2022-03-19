@@ -253,7 +253,7 @@ def main() :
           
           shap.initjs()
            
-          st_shap(shap.force_plot(explainer_tree.expected_value[0], shap_values_tree[0], X_selected))
+          st_shap(shap.force_plot(explainer_tree.expected_value[1], shap_values_tree[1], X_selected))
           
           
           col1, col2 = st.columns(2)
